@@ -1,5 +1,3 @@
-# apple-mlx-tutorials
-
 # Apple MLX Tutorials
 
 Welcome to the Apple MLX Tutorials repository! This repository is dedicated to providing comprehensive tutorials and examples for Apple's new deep learning framework, MLX.
